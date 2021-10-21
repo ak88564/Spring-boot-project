@@ -1,2 +1,2 @@
 # Spring-boot-project
-This is a spring boot application in which  i have done the CRUD operation. Basically in this project, student's details are stored.
+This is a spring boot project in which I have done the CRUD operation. Taken the examples of student's details to perform CRUD operations.
